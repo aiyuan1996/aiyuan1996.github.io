@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aiyuan1996.github.io/"/>
-  <updated>2019-05-03T19:42:54.914Z</updated>
+  <updated>2019-05-03T20:02:27.143Z</updated>
   <id>https://aiyuan1996.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://aiyuan1996.github.io/2019/05/04/test/"/>
+    <id>https://aiyuan1996.github.io/2019/05/04/test/</id>
+    <published>2019-05-03T20:01:04.000Z</published>
+    <updated>2019-05-03T20:02:27.143Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://theme-next.iissnan.com/faqs.html" target="_blank" rel="noopener">https://theme-next.iissnan.com/faqs.html</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://theme-next.iissnan.com/faqs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://theme-next.iissnan.com/faqs.html&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title></title>
